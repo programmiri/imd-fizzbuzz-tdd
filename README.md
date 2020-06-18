@@ -19,4 +19,13 @@
 
 __Und das ganze natürlich test-driven!__
 
+
+## Ressourcen
+
+Das Testing Tool, dass ihr benutzt, ist [Jest](https://jestjs.io/docs/en/getting-started). In der Doku findet ihr alles was ihr braucht.
+
+## Tips
+
+Die Beschreibung der Tests kann auf verschieden Arten geschrieben werden. Ich bevorzuge, in dem `it` Part eine Anforderung zu formulieren wie "it `"returns '0' for number 0"`". Formulierungen wie `"should return '0' for number 0"` sind ebenfalls oft genutzt. Macht das, wie ihr mögt - wichtig ist, dass ihr versucht, in den Beschreibungne mehr Information über den Code zu geben. Dann haben eure Tests auch Nutzen als Dokumentation. 
+
 Viel Spaß 😄
