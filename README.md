@@ -6,8 +6,8 @@
 
 ## Scripts
 
-- `yarn watch` öffnet den Testrunner im "Watch" Modus. Die Test werden jedesmal wieder ausgführt, wenn du eine Code/Test Datei speicherst.
-- `yarn test` lässt die Tests einmal durchlaufen
+- `yarn watch` oder `npm run watch` öffnet den Testrunner im "Watch" Modus. Die Test werden jedesmal wieder ausgführt, wenn du eine Code/Test Datei speicherst.
+- `yarn test` oder `npm test` lässt die Tests einmal durchlaufen
 
 ## Aufgabe
 
